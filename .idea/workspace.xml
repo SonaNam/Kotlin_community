@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3564265-371b-4204-b0c9-c0de91eae960" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../123123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Details/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Details/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/EditPost/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/EditPost/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Header/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Header/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/KakaoMap/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Main/PostModifyModal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Main/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Main/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Sidebar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Sidebar/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Write/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/community/Write/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/ButtonEvent/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Chart/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Header/data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Header/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Header/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Header/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Header/tent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Main/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Main/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/ScrollEvent/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Sidebar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/Sidebar/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/SlideBanner/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/components/market/SlideBanner/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/images/CLOUDY.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/images/RAINY.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/images/SNOWY.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/images/SUNNY.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/images/pexels-clem-onojeghuo-221436.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/images/pexels-igor-cibulsky-8713324.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/images/pexels-nathan-moore-2603681.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/images/pexels-roman-odintsov-4555526.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/images/pexels-taryn-elliott-4909105.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/community/Layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/community/UseCommunity.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/community/routes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/Join/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/Join/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/Login/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/Login/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Edit/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Edit/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Favorite/Follow/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Favorite/Follow/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Favorite/Scrap/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Favorite/Scrap/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Favorite/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Favorite/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Inquery/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Inquery/style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Profile/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Profile/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/ProfileTop/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/ProfileTop/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Layout/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Layout/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/My-review/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/My-review/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Order-fail/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Order-fail/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Order-wait/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Order-wait/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Order/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Order/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Review/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/Review/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Auth/User/Shopping/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/Layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/OrderBuy/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/OrderBuy/styes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/OrderMain/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/OrderMain/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/OrderReview/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/OrderReview/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/Orderdetail/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/Orderdetail/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/Orderinquiry/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/Orderinquiry/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/Orderinquiryqna/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/Orderinquiryqna/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/imgae-sample/arrow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/imgae-sample/pexels_videos_2675515 (540p).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/imgae-sample/sample1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/imgae-sample/sample2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/imgae-sample/sample3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/routes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/order/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/Main/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/Main/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Brand/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Brand/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Discount-items/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Discount-items/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Hottest-items/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Hottest-items/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Products/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Products/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Search-items/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/Search-items/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/product/market/styled.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/productRoutes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/modules/market/userRoutes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/styles/reset.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/types/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/types/kakao.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/utils/cookie.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/src/utils/http.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../React/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../git-local-remote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java-docs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/Bboard/Borad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/Bboard/BoradManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/Bboard/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/list/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/list/account/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/list/account/AccountManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/list/account/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/list/list/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/list/list/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/list/listEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/map/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/mapEx/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/CH06/mapEx/mainEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/Class복습/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/Class복습/Parameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/Class복습/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/Class복습/클래스_1번문제_Student클래스.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/Class복습/클래스_1번문제_객체.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/account/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/account/AccountManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/account/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch01/Casting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch01/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch01/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch01/StringsEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch01/Variables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/Arithmetic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/ArithmeticEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/Compare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/CompareLogicalEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/CompareSize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/Logical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/OperatorPriority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/Q80.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/Q81.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/TernaryOperatorEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch02/increments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch03/Conditions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch03/ConditionsCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch03/ConditionsEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch03/Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch03/LoopEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch03/LoopWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch03/NestLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch04/ArrayEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch04/Arrayy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch04/EnhancedFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch04/EnhancedForEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch04/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch04/MatrixEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/ClassConcept.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/MethodEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/OrderInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/Studen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/StudentMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/accessModifier/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/accessModifier/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/accessModifier/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/overloading/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/overloading/Operator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/singleton/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/singleton/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/statics/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/statics/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/ch05/statics/Main2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/myuniversity/courses/CourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/myuniversity/courses/Courses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/myuniversity/student/GraduateStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/myuniversity/student/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/myuniversity/student/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/com/myuniversity/student/UnderGraduateStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/sona/Ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/sona/For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/sona/controlEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/sona/operatorEX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/sona/operatorEX2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/전체복습/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/전체복습/OrderInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/전체복습/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/전체복습/반복문Loop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/전체복습/배열array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/전체복습/조건문condition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src11.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../고래.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../자바 용어정리중.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2Z4PuyI0FShCt5Bk6wCRIOGVsWY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/tjoeun/Desktop/새 폴더 (4)/community-kotlin/Kotlin_community/Kotlin_community"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a3564265-371b-4204-b0c9-c0de91eae960" name="변경" comment="" />
+      <created>1701678607135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701678607135</updated>
+    </task>
+    <servers />
+  </component>
+</project>
